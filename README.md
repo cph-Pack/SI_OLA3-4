@@ -25,6 +25,7 @@ Then we identified the read models:
 ![image](https://github.com/user-attachments/assets/2489642b-1929-4de9-b484-56bbff39b8e3)
 
 And found the aggregates and their bounded context:
+
 ![image](https://github.com/user-attachments/assets/dce973db-572d-4ad0-ae11-05e2c75178a7)
 
 ![image](https://github.com/user-attachments/assets/46c71264-a652-4940-b524-5e4fc712a4a1)
