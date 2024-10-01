@@ -44,5 +44,22 @@ Level 2 - Container diagram:
 Level 3 - Component diagram:
 ![image](https://github.com/user-attachments/assets/fb084b6a-4bf0-40a0-aa7a-fe9630e36017)
 
+### Ubiqutous language
+We recognized the following words as essiential to our case.
+- Trailer
+- Customers
+- Owner (MyTrailer)
+- Locations
+- Specialist location
+- Branding
+- Companies (renting the service from the owner)
+- Mobile app
+- Booking
+- Short term rental
+- Long term rental (must be booked through website)
+- Website
+- Excess rental fee
+- Rental insurance
+- Partnerships
 
 
