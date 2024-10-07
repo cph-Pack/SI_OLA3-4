@@ -47,7 +47,7 @@ Level 3 - Component diagram:
 ### Ubiqutous language
 We recognized the following words as essiential to our case.\
 **Trailer** - The trailers are owned by MyTrailer and are identified by a location id and a number.\
-**Users / Customers** - The individuals who rent trailers. The two terms are used interchangeably.\ 
+**Users / Customers** - The individuals who rent trailers. The two terms are used interchangeably.\
 **Owner / MyTrailer** - The primary owner of the trailers and the MyTrailer booking system.\
 **Locations** - A physical place where the trailers can be picked up by the users. The location is identified by a location id.\
 **Specialist location** - A type of location where the customer can pick up specifically the trailers rented for a period beyond 24 hours.\
