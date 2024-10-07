@@ -45,7 +45,7 @@ Level 3 - Component diagram:
 ![image](https://github.com/user-attachments/assets/fb084b6a-4bf0-40a0-aa7a-fe9630e36017)
 
 ### Ubiqutous language
-We recognized the following words as essiential to our case.
+We recognized the following words as essiential to our case.\
 **Trailer** - The trailers are owned by MyTrailer and are identified by a location id and a number.\
 **Users / Customers** - The individuals who rent trailers. The two terms are used interchangeably.\ 
 **Owner / MyTrailer** - The primary owner of the trailers and the MyTrailer booking system.\
