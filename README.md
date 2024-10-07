@@ -59,8 +59,8 @@ We recognized the following words as essiential to our case.\
 **Long term rental** - A booking which is completed earliest the day after the booking of the trailer has occurred, only available through the website.\
 **Website** - A site on the internet where the customer can make short- and long term rentals of trailers.\
 **Excess rental fee** - A penalty fee applied to the price of renting a trailer when the maximum rental period is exceeded.\
-**Rental insurance** - Insurance for a trailer covering any damages, caused by normal usage, that may occur during the rental period.
-
+**Rental insurance** - Insurance for a trailer covering any damages, caused by normal usage, that may occur during the rental period.\
+**Fair usage** -  A legal contract which shows in detail what kind of damage will be covered by the rental insurance fee. All customers must sign that they read and understand the terms before renting a trailer.\
 
 
 
