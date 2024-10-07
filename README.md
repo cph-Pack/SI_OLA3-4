@@ -46,20 +46,28 @@ Level 3 - Component diagram:
 
 ### Ubiqutous language
 We recognized the following words as essiential to our case.
-- Trailer
-- Customers
-- Owner (MyTrailer)
-- Locations
-- Specialist location
-- Branding
-- Companies (renting the service from the owner)
-- Mobile app
-- Booking
-- Short term rental
-- Long term rental (must be booked through website)
-- Website
-- Excess rental fee
-- Rental insurance
-- Partnerships
+**Trailer** - The trailers are owned by MyTrailer and are identified by a location id and a number.
+**Users / Customers** - The individuals who rent trailers. The two terms are used interchangeably. 
+**Owner / MyTrailer** - The primary owner of the trailers and the MyTrailer booking system.
+**Locations** - A physical place where the trailers can be picked up by the users. The location is identified by a location id.
+**Specialist location** - A type of location where the customer can pick up specifically the trailers rented for a period beyond 24 hours.
+**Branding** - The iconography of the MyTrailer business and partner companies on the trailers.
+**Partner Companies / Partners** - Separate business that provide the locations for the trailers to be parked in exchange for branding on the trailers and pay MyTrailer for the rental service.
+**Mobile app** - An application for mobile devices, where the customer can make short term rentals of trailers.
+**Booking** - The act of reserving a trailer.
+**Short term rental** - A booking which is completed before 00:00 the day it was rented.
+**Long term rental** - A booking which is completed earliest the day after the booking of the trailer has occurred, only available through the website.
+**Website** - A site on the internet where the customer can make short- and long term rentals of trailers.
+**Excess rental fee** - A penalty fee applied to the price of renting a trailer when the maximum rental period is exceeded.
+**Rental insurance** - Insurance for a trailer covering any damages, caused by normal usage, that may occur during the rental period.
+
+
+
+
+
+
+
+
+
 
 
