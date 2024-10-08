@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyTrailer_Frontend/1.0.0": {
+        "runtime": {
+          "MyTrailer_Frontend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyTrailer_Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

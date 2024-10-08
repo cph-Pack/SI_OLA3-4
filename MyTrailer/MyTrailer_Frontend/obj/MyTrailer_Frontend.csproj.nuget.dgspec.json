@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albie\\source\\repos\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj": {}
+    "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albie\\source\\repos\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj": {
+    "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albie\\source\\repos\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj",
         "projectName": "MyTrailer_Frontend",
-        "projectPath": "C:\\Users\\albie\\source\\repos\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj",
-        "packagesPath": "C:\\Users\\albie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albie\\source\\repos\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\",
+        "projectPath": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj",
+        "packagesPath": "C:\\Users\\Caroline\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\albie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Caroline\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

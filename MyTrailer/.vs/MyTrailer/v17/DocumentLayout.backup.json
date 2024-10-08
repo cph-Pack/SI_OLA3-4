@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrailerController.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:04:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Program.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:57:10.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

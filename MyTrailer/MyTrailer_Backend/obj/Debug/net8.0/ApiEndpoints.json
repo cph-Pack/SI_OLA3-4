@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MyTrailer_Backend.Controllers.TrailerController",
+    "Method": "Get",
+    "RelativePath": "Trailer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
