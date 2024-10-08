@@ -30,7 +30,8 @@ And found the aggregates and their bounded context:
 
 ![image](https://github.com/user-attachments/assets/46c71264-a652-4940-b524-5e4fc712a4a1)
 
-![image](https://github.com/user-attachments/assets/57589e83-a266-4d82-9917-909ca5b9c340)
+![image](https://github.com/user-attachments/assets/39060e47-2953-4d9c-9a57-942aaefdf913)
+
 
 
 ### Creating C4 diagrams
