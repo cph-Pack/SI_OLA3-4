@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "I4BQZVyq4psmrRaKM2Kr2YqyWN+mFnlf9OlQKQAvRRM=",
-  "Source": "MyTrailer_Backend",
-  "BasePath": "_content/MyTrailer_Backend",
+  "Hash": "iwhtrSTQnaHpIPmhvkYznbTNWTYYsManuF1uUXz5koM=",
+  "Source": "MyTrailer_Booking_Backend",
+  "BasePath": "_content/MyTrailer_Booking_Backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

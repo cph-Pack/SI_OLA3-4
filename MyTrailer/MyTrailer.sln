@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTrailer_Frontend", "MyTrailer_Frontend\MyTrailer_Frontend.csproj", "{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTrailer_Backend", "MyTrailer_Backend\MyTrailer_Backend.csproj", "{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTrailer_Booking_Backend", "MyTrailer_Backend\MyTrailer_Booking_Backend.csproj", "{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

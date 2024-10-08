@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MyTrailer_Booking_Backend.props" />
+</Project>

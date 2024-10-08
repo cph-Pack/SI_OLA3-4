@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dwVDmO4+grQ=",
+  "dgSpecHash": "QzKW64P/kF0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\MyTrailer_Backend.csproj",
+  "projectFilePath": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caroline\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Caroline\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
