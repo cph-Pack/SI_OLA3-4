@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\trailerrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\trailerrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\trailermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\trailermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\RentalManager.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\RentalManager.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\RentalManager.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\RentalManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:59:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\DBManager.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\DBManager.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\DBManager.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\DBManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:56:40.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrailerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerManager.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\TrailerManager.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerManager.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\TrailerManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:56:04.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Customer.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Customer.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:52:06.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Rental.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Rental.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Rental.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Rental.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:43:41.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:46:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrailerRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerRentalService.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\TrailerRentalService.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerRentalService.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\TrailerRentalService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:42:30.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Trailer.cs",
+              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Trailer.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Trailer.cs",
+              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Trailer.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Trailer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:41:13.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TrailerController.cs",
               "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
               "RelativeDocumentMoniker": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
               "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
               "RelativeToolTip": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:04:54.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Program.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Program.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T11:57:10.204Z",
+              "WhenOpened": "2024-10-08T14:26:37.712Z",
               "EditorCaption": ""
             }
           ]
