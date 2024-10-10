@@ -1,4 +1,5 @@
-# SI_OLA3-4 Youtube video - https://www.youtube.com/watch?v=_qzvakWuCdI
+# SI_OLA3-4 
+Youtube video - https://www.youtube.com/watch?v=_qzvakWuCdI
 
 ## Remote Event Storming Session
 We had a remote event storming session following this [guide](https://ddd-practitioners.com/2023/03/20/remote-eventstorming-workshop/) and we documented our workshop and the different steps. 
