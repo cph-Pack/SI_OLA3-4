@@ -1,0 +1,92 @@
+﻿@page "/rent-trailer"
+@using MyTrailer_Frontend.Data
+@using System.Text.Json
+@using System.Text
+@inject HttpClient Http
+@rendermode InteractiveServer
+
+<PageTitle>Rent a trailer</PageTitle>
+
+<h3>Book a Trailer</h3>
+
+<EditForm Model="rentalRequest" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label>Customer ID: </label>
+        <InputNumber @bind-Value="rentalRequest.CustomerId" />
+    </div>
+
+    <div>
+        <label>Trailer Number: </label>
+        <InputNumber @bind-Value="trailerNumber" />
+    </div>
+
+    <div>
+        <label>Start Time: </label>
+        <InputDate @bind-Value="rentalRequest.StartTime" />
+    </div>
+
+    <div>
+        <label>End Time: </label>
+        <InputDate @bind-Value="rentalRequest.EndTime" />
+    </div>
+
+    <div>
+        <label>Insurance: </label>
+        <InputCheckbox @bind-Value="rentalRequest.HasInsurance" />
+    </div>
+
+    <button type="submit">Book Trailer</button>
+    <p>@responseResultMessage</p>
+</EditForm>
+
+@* @if (rental != null)
+{
+    <p>Rental created successfully!</p>
+} *@
+@code {
+    private int trailerNumber;
+    private RentalRequest rentalRequest = new RentalRequest();
+    //private Rental rental;
+    private string responseResultMessage;
+
+    HttpClient httpClient = new()
+        {
+            BaseAddress = new Uri("https://localhost:7136/Trailer"),
+        };
+
+    private async Task HandleValidSubmit(EditContext context)
+    {
+        //var response = await Http.GetStringAsync("https://localhost:7136/Trailer");
+        // var rental = await response.Content.ReadFromJsonAsync<String>();
+        
+        //https://localhost:7136/Trailer/rent/1
+        RentalRequest rentalRequest = (RentalRequest) context.Model;
+        
+        using StringContent jsonContent = new(
+        JsonSerializer.Serialize(new
+        {
+            customerId = rentalRequest.CustomerId,
+            StartTime = rentalRequest.StartTime,
+            EndTime = rentalRequest.EndTime,
+            RentalType = 0,
+            HasInsurance = rentalRequest.HasInsurance
+        }),
+        Encoding.UTF8,
+        "application/json");
+
+        using HttpResponseMessage response = await httpClient.PostAsync(
+        "Trailer/rent/1",
+        jsonContent);
+
+        if (response.IsSuccessStatusCode)
+        {
+            responseResultMessage = "The rental has been ACCEPTED ACCEPTED!!!!!";
+        }
+        // var response = await Http.PostAsJsonAsync($"api/rent/{trailerNumber}", rentalRequest);
+        // rental = await response.Content.ReadFromJsonAsync<Rental>();
+    }
+
+}

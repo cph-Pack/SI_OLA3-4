@@ -1,50 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\",
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\pages\\renttrailer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\pages\\renttrailer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\trailerrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\trailerrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\controllers\\trailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\pages\\returntrailer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\pages\\returntrailer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\pages\\trailers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\pages\\trailers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\rentaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\rentaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\data\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\data\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\trailermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\trailermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|c:\\users\\caroline\\documents\\software-udvikling\\2.sem\\system integration\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Backend.csproj|solutionrelative:mytrailer_backend\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\partnercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\data\\partnercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\rentaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\data\\rentaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\data\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\data\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\trailermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\trailermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\data\\returnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\data\\returnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\data\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\data\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\data\\rentaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\data\\rentaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\data\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DEF7AA-84A1-4495-9A9D-C03B82CD3F7E}|MyTrailer_Frontend\\MyTrailer_Frontend.csproj|solutionrelative:mytrailer_frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\trailerrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\trailerrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|c:\\users\\kevin\\source\\repos\\cph-pack\\si_ola3-4\\mytrailer\\mytrailer_backend\\data\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEBBE1-9678-4A7C-A550-FDE7D81884F2}|MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj|solutionrelative:mytrailer_backend\\data\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +130,368 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bill.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Bill.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Bill.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Bill.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Data\\Bill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:22:46.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Rental.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Rental.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Rental.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Rental.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Data\\Rental.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:43:41.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RentalRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Models\\RentalRequest.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Models\\RentalRequest.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Models\\RentalRequest.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Models\\RentalRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:46:03.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Trailer.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Trailer.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Trailer.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Trailer.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Data\\Trailer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:41:13.31Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\appsettings.Development.json",
+              "RelativeToolTip": "MyTrailer_Frontend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T20:26:52.682Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TrailerController.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBgAAAAnAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Program.cs",
+              "RelativeToolTip": "MyTrailer_Frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:26:37.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T09:08:47.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrailerRentalService.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerRentalService.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\TrailerRentalService.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerRentalService.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\TrailerRentalService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:42:30.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RentalManager.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\RentalManager.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\RentalManager.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\RentalManager.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\RentalManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:59:39.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RentalType.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\RentalType.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\RentalType.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\RentalType.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Data\\RentalType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:12:02.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TrailerManager.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerManager.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\TrailerManager.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerManager.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\TrailerManager.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wB4AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:56:04.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Customer.cs",
-              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Customer.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Customer.cs",
-              "RelativeToolTip": "MyTrailer_Backend\\Data\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:52:06.823Z",
+              "DocumentIndex": 0,
+              "Title": "RentTrailer.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\RentTrailer.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\Pages\\RentTrailer.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\RentTrailer.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\Pages\\RentTrailer.razor",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T09:07:39.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DBManager.cs",
-              "DocumentMoniker": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\DBManager.cs",
               "RelativeDocumentMoniker": "MyTrailer_Backend\\DBManager.cs",
-              "ToolTip": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\DBManager.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\DBManager.cs",
               "RelativeToolTip": "MyTrailer_Backend\\DBManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAUwCQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:56:40.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:56:40.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:05:11.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Rental.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Rental.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Rental.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:43:41.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trailer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Trailer.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Trailer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Trailer.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Trailer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:41:13.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReturnTrailer.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\ReturnTrailer.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\Pages\\ReturnTrailer.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\ReturnTrailer.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\Pages\\ReturnTrailer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:00:11.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:04:47.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\RentalRequest.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Data\\RentalRequest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\RentalRequest.cs",
+              "RelativeToolTip": "MyTrailer_Frontend\\Data\\RentalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:50:01.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\Rental.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Data\\Rental.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\Rental.cs",
+              "RelativeToolTip": "MyTrailer_Frontend\\Data\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:36:02.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrailerController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Controllers\\TrailerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:26:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Location.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Location.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Location.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:44:32.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trailers.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\Trailers.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\Pages\\Trailers.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Pages\\Trailers.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\Pages\\Trailers.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T15:53:24.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartnerCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\PartnerCompany.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\PartnerCompany.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\PartnerCompany.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\PartnerCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:44:32.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Program.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:46:35.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RentalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Models\\RentalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:46:03.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrailerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerManager.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\TrailerManager.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerManager.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\TrailerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:56:04.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RentalType.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\RentalType.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\RentalType.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\RentalType.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\RentalType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:12:02.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RentalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\RentalManager.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\RentalManager.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\RentalManager.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\RentalManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:59:39.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Trailer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\Trailer.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Data\\Trailer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\Trailer.cs",
+              "RelativeToolTip": "MyTrailer_Frontend\\Data\\Trailer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:07:01.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\Bill.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Data\\Bill.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\Bill.cs",
+              "RelativeToolTip": "MyTrailer_Frontend\\Data\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:08:36.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReturnRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\ReturnRequest.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Data\\ReturnRequest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\ReturnRequest.cs",
+              "RelativeToolTip": "MyTrailer_Frontend\\Data\\ReturnRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:08:47.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RentalType.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\RentalType.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Data\\RentalType.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Data\\RentalType.cs",
+              "RelativeToolTip": "MyTrailer_Frontend\\Data\\RentalType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:30:15.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T09:17:48.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\App.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\App.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:10:38.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "MyTrailer_Frontend\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\Components\\Routes.razor",
+              "RelativeToolTip": "MyTrailer_Frontend\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:10:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Bill.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Bill.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Bill.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:22:46.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TrailerRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerRentalService.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\TrailerRentalService.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\TrailerRentalService.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\TrailerRentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:42:30.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "MyTrailer_Backend\\Data\\Customer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\Data\\Customer.cs",
+              "RelativeToolTip": "MyTrailer_Backend\\Data\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:52:06.823Z"
             }
           ]
         }

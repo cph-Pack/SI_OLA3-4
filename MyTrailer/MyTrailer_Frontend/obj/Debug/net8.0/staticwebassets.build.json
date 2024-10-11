@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MjwKw7QuzncMzHNCoEPOdymZ9tszQYc1v7MdxW/PoK8=",
+  "Hash": "iUO4rgh7gmCwAk5gh5H+XDztXrqNYP+vaWLQX6cOxDQ=",
   "Source": "MyTrailer_Frontend",
   "BasePath": "_content/MyTrailer_Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyTrailer_Frontend\\wwwroot",
       "Source": "MyTrailer_Frontend",
-      "ContentRoot": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
       "BasePath": "_content/MyTrailer_Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyTrailer_Frontend.styles.css",
+      "Identity": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyTrailer_Frontend.styles.css",
       "SourceId": "MyTrailer_Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyTrailer_Frontend",
       "RelativePath": "MyTrailer_Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyTrailer_Frontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyTrailer_Frontend.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyTrailer_Frontend.bundle.scp.css",
+      "Identity": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyTrailer_Frontend.bundle.scp.css",
       "SourceId": "MyTrailer_Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyTrailer_Frontend",
       "RelativePath": "MyTrailer_Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyTrailer_Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyTrailer_Frontend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\app.css",
       "SourceId": "MyTrailer_Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
       "BasePath": "_content/MyTrailer_Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "MyTrailer_Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
       "BasePath": "_content/MyTrailer_Frontend",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MyTrailer_Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
       "BasePath": "_content/MyTrailer_Frontend",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\favicon.png",
       "SourceId": "MyTrailer_Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Caroline\\Documents\\Software-Udvikling\\2.SEM\\System Integration\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\wwwroot\\",
       "BasePath": "_content/MyTrailer_Frontend",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

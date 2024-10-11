@@ -1210,19 +1210,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dieky\\.nuget\\packages\\": {}
+    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dieky\\Documents\\GitHub\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj",
       "projectName": "MyTrailer_Booking_Backend",
-      "projectPath": "C:\\Users\\dieky\\Documents\\GitHub\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj",
-      "packagesPath": "C:\\Users\\dieky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dieky\\Documents\\GitHub\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\obj\\",
+      "projectPath": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\MyTrailer_Booking_Backend.csproj",
+      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dieky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

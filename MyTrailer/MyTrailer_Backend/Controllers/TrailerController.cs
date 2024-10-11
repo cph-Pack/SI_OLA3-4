@@ -10,11 +10,16 @@ namespace MyTrailer_Backend.Controllers
     {
         private readonly TrailerRentalService _service = new TrailerRentalService();
 
+        //[HttpGet]
+        //public ActionResult<List<Trailer>> Get()
+        //{
+        //    List<Trailer> trailers = _service.GetAllTrailers();
+        //    return Ok(trailers);
+        //}
+
         [HttpGet]
-        public ActionResult<List<Trailer>> Get()
-        {
-            List<Trailer> trailers = _service.GetAllTrailers();
-            return Ok(trailers);
+        public string Get() {
+            return "Hello, this is a test";
         }
 
         [HttpPost("rent/{trailerNumber}")]

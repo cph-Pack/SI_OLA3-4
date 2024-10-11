@@ -1,0 +1,55 @@
+﻿@page "/return-trailer"
+@using MyTrailer_Frontend.Data
+<h3>Return a Trailer</h3>
+
+<EditForm OnValidSubmit="HandleValidSubmit">
+    <div>
+        <label>Customer Name: </label>
+        <InputText @bind-Value="customerName" />
+    </div>
+
+    <div>
+        <label>Late Return: </label>
+        <InputCheckbox @bind-Value="isLateReturn" />
+    </div>
+
+    <div>
+        <label>Include Insurance: </label>
+        <InputCheckbox @bind-Value="includeInsurance" />
+    </div>
+
+    <button type="submit">Generate Bill</button>
+</EditForm>
+
+@if (bill != null)
+{
+    <h4>Bill for @bill.CustomerName</h4>
+    <p>Total Amount: @bill.TotalAmount Kr</p>
+    <p>Billing Date: @bill.BillingDate</p>
+}
+
+@code {
+    private string customerName;
+    private bool isLateReturn;
+    private bool includeInsurance;
+    private Bill bill;
+
+    private void HandleValidSubmit()
+    {
+        bill = new Bill
+            {
+                CustomerName = customerName,
+                TotalAmount = 0 // Start med 0, tilføj senere
+            };
+
+        if (includeInsurance)
+        {
+            bill.AddInsurance(50); // 50 Kr for insurance
+        }
+
+        if (isLateReturn)
+        {
+            bill.AddLateFee(100); // 100 Kr for late return
+        }
+    }
+}

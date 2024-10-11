@@ -1,0 +1,28 @@
+﻿@page "/trailers"
+@using MyTrailer_Backend.Data
+@inject HttpClient Http
+
+<h3>Available Trailers</h3>
+
+@if (trailers == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <ul>
+        @foreach (var trailer in trailers)
+        {
+            <li>@trailer.TrailerLocation.LocationName - Trailer Number: @trailer.TrailerNumber</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Trailer> trailers;
+
+    protected override async Task OnInitializedAsync()
+    {
+        trailers = await Http.GetFromJsonAsync<List<Trailer>>("api/trailers");
+    }
+}

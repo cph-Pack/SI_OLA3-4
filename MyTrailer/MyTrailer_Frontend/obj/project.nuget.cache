@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ksAf30vc6tQ=",
+  "dgSpecHash": "/Olzzq1KemE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dieky\\Documents\\GitHub\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Kevin\\Source\\Repos\\cph-Pack\\SI_OLA3-4\\MyTrailer\\MyTrailer_Frontend\\MyTrailer_Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\mongodb.bson\\2.29.0\\mongodb.bson.2.29.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
