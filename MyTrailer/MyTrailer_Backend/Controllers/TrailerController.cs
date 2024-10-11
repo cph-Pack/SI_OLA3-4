@@ -9,7 +9,7 @@ namespace MyTrailer_Backend.Controllers
     public class TrailerController : ControllerBase
     {
         private readonly TrailerRentalService _service = new TrailerRentalService();
-
+        DBManager _dbManager = new DBManager();
         [HttpGet]
         public ActionResult<List<Trailer>> Get()
         {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyTrailer_Booking_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9ff0e0f2633b7f1b515d57c58caff9ef7d836d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb77684b39dfc6f522eda7c56c23192ffe98d476")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyTrailer_Booking_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyTrailer_Booking_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

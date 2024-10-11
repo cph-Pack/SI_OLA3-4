@@ -28,3 +28,33 @@ C:\Users\Caroline\Documents\Software-Udvikling\2.SEM\System Integration\SI_OLA3-
 C:\Users\Caroline\Documents\Software-Udvikling\2.SEM\System Integration\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.pdb
 C:\Users\Caroline\Documents\Software-Udvikling\2.SEM\System Integration\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.genruntimeconfig.cache
 C:\Users\Caroline\Documents\Software-Udvikling\2.SEM\System Integration\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\ref\MyTrailer_Frontend.dll
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\MyTrailer_Frontend.staticwebassets.runtime.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\MyTrailer_Frontend.exe
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\MyTrailer_Frontend.deps.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\MyTrailer_Frontend.runtimeconfig.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\MyTrailer_Frontend.dll
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\bin\Debug\net8.0\MyTrailer_Frontend.pdb
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.AssemblyInfoInputs.cache
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.AssemblyInfo.cs
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.csproj.CoreCompileInputs.cache
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.sourcelink.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\staticwebassets\msbuild.MyTrailer_Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.MyTrailer_Frontend.props
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyTrailer_Frontend.props
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyTrailer_Frontend.props
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\scopedcss\bundle\MyTrailer_Frontend.styles.css
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\scopedcss\projectbundle\MyTrailer_Frontend.bundle.scp.css
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.dll
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\refint\MyTrailer_Frontend.dll
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.pdb
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\MyTrailer_Frontend.genruntimeconfig.cache
+C:\Users\dieky\Documents\GitHub\SI_OLA3-4\MyTrailer\MyTrailer_Frontend\obj\Debug\net8.0\ref\MyTrailer_Frontend.dll
